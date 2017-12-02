@@ -9,3 +9,13 @@ urxvt-patched
 rofi
 slim
 polybar
+feh
+
+
+ranger
+wget
+vim
+sublime
+cmus
+htop
+neofetch
