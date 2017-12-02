@@ -10,6 +10,7 @@ rofi
 slim
 polybar
 feh
+pywal
 
 
 ranger
